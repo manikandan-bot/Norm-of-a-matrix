@@ -41,7 +41,7 @@ print("{:.2f}".format(result))
 
 
 
-```
+
 ## Output:
 ### 1-Norm of a Matrix
 ![alt text](image.png)
